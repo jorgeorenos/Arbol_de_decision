@@ -15,4 +15,4 @@ Aunque es factible pensar esto, también pudo deberse a la casualidad dada la mu
 
 ![Simulación](https://github.com/jorgeorenos/Arbol_de_decision/blob/main/Imagenes/ROC%20simulaci%C3%B3n.jpg)
 
-Con lo anterior corroboramos que el modelo logístico es mejor para predicir si un pasajero del Titanic sobrevive o no al hundimiento.
+Con lo anterior corroboramos que el modelo logístico es mejor para predecir si un pasajero del Titanic sobrevive o no al hundimiento.
